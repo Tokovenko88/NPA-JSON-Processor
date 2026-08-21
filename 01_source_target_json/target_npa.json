@@ -1,0 +1,166 @@
+{
+  "npa_id": 123,
+  "npa_type": "law",
+  "npa_number": "123-ЗС",
+  "npa_author": "Законодательное Собрание города Севастополя",
+  "npa_npa_committee": "Комитет по бюджету",
+  "npa_url": "https://sevzakon.ru/laws/123-ZS",
+  "date_reg": "01.01.2023",
+  "date_passed": "15.06.2023",
+  "date_pub": "20.06.2023",
+  "valid_from": "01.07.2023",
+  "npa_signer_post": "Председатель Законодательного Собрания города Севастополя",
+  "npa_signer": "А.А. Петров",
+  "date_format": 1,
+  "head_revision": [
+    {
+      "npa_head": "О бюджетном устройстве города Севастополя",
+      "modified_by_id": "123",
+      "valid_from": "20.06.2023",
+      "valid_to": null
+    }
+  ],
+  "revision_info": [],
+  "npa_items_revision": [
+    {
+      "item_id": "123_article_1",
+      "item_type": "article",
+      "item_number": "1",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.06.2023",
+          "valid_to": null,
+          "modified_by_id": "123",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Настоящий Закон регулирует бюджетные отношения на территории города Севастополя.</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>2. Действие положений статей 3, 5 и 7 настоящего Закона распространяется на правоотношения, возникшие с 1 января 2023 года.</p>",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "123_article_2",
+      "item_type": "article",
+      "item_number": "2",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.06.2023",
+          "valid_to": null,
+          "modified_by_id": "123",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Статья 2. Бюджетное устройство</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>1. Бюджетное устройство города Севастополя основано на принципах единства и самостоятельности.</p>",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "123_article_3",
+      "item_type": "article",
+      "item_number": "3",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.06.2023",
+          "valid_to": null,
+          "modified_by_id": "123",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Статья 3. Основные полномочия Собрания</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>1. К основным полномочиям Собрания относятся:</p>",
+              "order": 2
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>1) утверждение бюджета города Севастополя;</p>",
+              "order": 3
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>2) контроль за исполнением бюджета.</p>",
+              "order": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "123_article_5",
+      "item_type": "article",
+      "item_number": "5",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.06.2023",
+          "valid_to": null,
+          "modified_by_id": "123",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Статья 5. Финансовый контроль</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>Финансовый контроль осуществляется Счетной палатой города Севастополя.</p>",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "123_article_7",
+      "item_type": "article",
+      "item_number": "7",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.06.2023",
+          "valid_to": null,
+          "modified_by_id": "123",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Статья 7. Заключительные положения</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>Настоящий Закон действует до дня его официального опубликования.</p>",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

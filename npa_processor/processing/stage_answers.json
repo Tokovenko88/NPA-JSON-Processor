@@ -1,0 +1,8 @@
+{
+  "stage1_answer": "null",
+  "stage2_answer": "null",
+  "stage3_answer": "[\n  {\n    \"revision_number\": \"4)->а)\",\n    \"structural_element\": \"Статья 5.2 абзац 1\",\n    \"type\": \"change\",\n    \"description\": \"в абзаце первом слово «Основанием» заменить словами «1. Основанием»\"\n  },\n  {\n    \"revision_number\": \"4)->б)\",\n    \"structural_element\": \"Статья 5.2 пункт 4\",\n    \"type\": \"change\",\n    \"description\": \"пункт 4 после слова «бесплатно» дополнить словами «либо единовременной денежной компенсации взамен предоставления земельного участка в собственность бесплатно»\"\n  },\n  {\n    \"revision_number\": \"4)->в)\",\n    \"structural_element\": \"Статья 5.2 пункт 5\",\n    \"type\": \"new_redaction\",\n    \"description\": \"5\"\n  },\n  {\n    \"revision_number\": \"4)->г)\",\n    \"structural_element\": \"Статья 5.2\",\n    \"type\": \"add\",\n    \"new\": \"часть 2\",\n    \"description\": \"7\"\n  }\n]",
+  "use_stage1_answer": true,
+  "use_stage2_answer": true,
+  "use_stage3_answer": true
+}

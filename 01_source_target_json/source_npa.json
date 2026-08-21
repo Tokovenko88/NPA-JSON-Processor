@@ -1,0 +1,101 @@
+{
+  "npa_id": 999,
+  "npa_type": "law",
+  "npa_number": "999-ЗС",
+  "npa_author": "Законодательное Собрание города Севастополя",
+  "npa_npa_committee": "Комитет по законодательству",
+  "npa_url": "https://sevzakon.ru/laws/999-ZS",
+  "date_reg": "01.01.2024",
+  "date_passed": "15.01.2024",
+  "date_pub": "20.01.2024",
+  "valid_from": "01.02.2024",
+  "npa_signer_post": "Председатель Законодательного Собрания города Севастополя",
+  "npa_signer": "И.И. Иванов",
+  "date_format": 1,
+  "head_revision": [
+    {
+      "npa_head": "О внесении изменений в Закон города Севастополя от 15.06.2023 № 123-ЗС",
+      "modified_by_id": "999",
+      "valid_from": "20.01.2024",
+      "valid_to": null
+    }
+  ],
+  "revision_info": [
+    {
+      "revision_id": "rev_999_001",
+      "revision_number": "999-ЗС",
+      "revision_date_reg": "01.01.2024",
+      "revision_date_valid": "01.02.2024",
+      "revision_url": "https://sevzakon.ru/laws/999-ZS/text"
+    }
+  ],
+  "npa_items_revision": [
+    {
+      "item_id": "999_article_1",
+      "item_type": "article",
+      "item_number": "1",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.01.2024",
+          "valid_to": null,
+          "modified_by_id": "999",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>Настоящий Закон вступает в силу со дня его официального опубликования.</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>2. Действие положений статей 3, 5 и 7 Закона города Севастополя от 27 июля 2016 года № 269-ЗС «О бюджетном устройстве» распространяется на правоотношения, возникшие с 7 июля 2023 года.</p>",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "item_id": "999_article_2",
+      "item_type": "article",
+      "item_number": "2",
+      "item_level": 1,
+      "revisions": [
+        {
+          "valid_from": "20.01.2024",
+          "valid_to": null,
+          "modified_by_id": "999",
+          "mod_type": "new_redaction",
+          "body": [
+            {
+              "type": "paragraph",
+              "html_text": "<p>1. В наименовании Закона города Севастополя от 15.06.2023 № 123-ЗС слова «общественного» исключить.</p>",
+              "order": 1
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>2. Статью 3 дополнить частью 3.1 следующего содержания:</p>",
+              "order": 2
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>«3.1. К основным полномочиям Собрания относятся:»;</p>",
+              "order": 3
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>3. Абзац первый части 2 изложить в следующей редакции:</p>",
+              "order": 4
+            },
+            {
+              "type": "paragraph",
+              "html_text": "<p>«Кандидаты, не заявившие о самоотводе, считаются избранными.».</p>",
+              "order": 5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
